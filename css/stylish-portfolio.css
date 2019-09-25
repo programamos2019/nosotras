@@ -41,6 +41,10 @@ h6 {
   font-weight: 700;
 }
 
+#img-maquina {
+  opacity:0.11;
+}
+
 .text-faded {
   color: rgba(255, 255, 255, 0.7);
 }
