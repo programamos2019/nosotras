@@ -32,6 +32,11 @@ body {
   text-transform: uppercase;
 }
 
+#contact{
+  padding: 100px;
+  height:auto;
+}
+
 h1,
 h2,
 h3,
